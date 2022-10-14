@@ -2,7 +2,7 @@
  "name": "sohanyakter9/advertising-settings",
  "type": "wordpress-plugin",
  "homepage": "https://github.com/sohanyakter9",
- "license": "GPLv3",
+ "license": "GPL-2.0+",
  "description": "Advertising Settings Plugin",
  "keywords": ["plugin","advertising-settings"],
  "require": {
