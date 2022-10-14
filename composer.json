@@ -1,5 +1,5 @@
 {
-    "name": "advertising-settings",
+    "name": "client-mu-plugins/advertising-settings",
     "type": "wordpress-plugin",
     "homepage": "https://github.com/sohanyakter9",
     "license": "MIT",
