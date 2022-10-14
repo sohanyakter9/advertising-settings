@@ -1,6 +1,6 @@
 {
     "name": "client-mu-plugins/advertising-settings",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "version": "1.0.11",
     "homepage": "https://github.com/sohanyakter9",
     "license": "GPL-2.0-or-later",
@@ -8,5 +8,9 @@
         "php": ">= 7.4"
     },
     "description": "Advertising Settings Plugin",
-    "keywords": ["client-mu-plugins","advertising-settings"]
+    "keywords": ["client-mu-plugins","advertising-settings"],
+    "installer-paths": {
+        "{$name}/": ["type:wordpress-muplugin"]
+    }
+
 }
