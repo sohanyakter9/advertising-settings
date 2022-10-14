@@ -1,8 +1,14 @@
 {
-    "name": "sohanyakter9/advertising-settings",
+    "name": "advertising-settings",
     "type": "wordpress-plugin",
     "homepage": "https://github.com/sohanyakter9",
     "license": "MIT",
     "description": "Advertising Settings Plugin",
-    "keywords": ["plugin","advertising-settings"]
+    "keywords": ["plugin","advertising-settings"],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sohanyakter9/advertising-settings"
+        }
+    ]
 }
