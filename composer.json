@@ -1,9 +1,9 @@
 {
     "name": "sohanyakter9/advertising-settings",
-    "type": "wordpress-ped-muplugin",
-    "version": "2.0.1",
+    "type": "wordpress-plugin",
+    "version": "2.0.2",
     "homepage": "https://github.com/sohanyakter9",
-    "license": "GPL-2.0-or-later",
+    "license": "MIT",
     "require": {
         "php": ">= 7.4",
         "composer/installers": "~1.0"
