@@ -1,0 +1,11 @@
+{
+ "name": "sohanyakter9/advertising-settings",
+ "type": "wordpress-plugin",
+ "homepage": "https://github.com/sohanyakter9",
+ "license": "GPLv3",
+ "description": "Advertising Settings Plugin",
+ "keywords": ["plugin","advertising-settings"],
+ "require": {
+   "johnpbloch/wordpress": "^6.0"
+ }
+}
