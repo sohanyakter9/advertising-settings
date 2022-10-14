@@ -1,14 +1,12 @@
 {
     "name": "client-mu-plugins/advertising-settings",
     "type": "wordpress-plugin",
+    "version": "1.0.0",
     "homepage": "https://github.com/sohanyakter9",
-    "license": "MIT",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">= 7.4"
+    },
     "description": "Advertising Settings Plugin",
-    "keywords": ["plugin","advertising-settings"],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/sohanyakter9/advertising-settings"
-        }
-    ]
+    "keywords": ["client-mu-plugins","advertising-settings"]
 }
