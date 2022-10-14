@@ -1,6 +1,6 @@
 {
   "name": "advertising-settings",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A new custom panel is visible in the sidebar for the standard “post” type.",
   "main": "build/index.js",
   "scripts": {
