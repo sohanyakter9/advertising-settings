@@ -1,7 +1,7 @@
 {
     "name": "sohanyakter9/advertising-settings",
-    "type": "wordpress-plugin",
-    "version": "2.0.2",
+    "type": "wordpress-dropin",
+    "version": "2.0.3",
     "homepage": "https://github.com/sohanyakter9",
     "license": "MIT",
     "require": {
