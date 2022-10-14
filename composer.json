@@ -1,7 +1,7 @@
 {
     "name": "client-mu-plugins/advertising-settings",
     "type": "wordpress-muplugin",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "homepage": "https://github.com/sohanyakter9",
     "license": "GPL-2.0-or-later",
     "require": {
