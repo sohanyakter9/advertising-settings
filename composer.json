@@ -5,7 +5,4 @@
  "license": "GPL-2.0+",
  "description": "Advertising Settings Plugin",
  "keywords": ["plugin","advertising-settings"],
- "require": {
-   "johnpbloch/wordpress": "^6.0"
- }
 }
