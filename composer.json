@@ -1,8 +1,12 @@
 {
- "name": "sohanyakter9/advertising-settings",
- "type": "wordpress-plugin",
- "homepage": "https://github.com/sohanyakter9",
- "license": "GPL-2.0+",
- "description": "Advertising Settings Plugin",
- "keywords": ["plugin","advertising-settings"],
+    "name": "sohanyakter9/advertising-settings",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/sohanyakter9",
+    "license": "MIT",
+    "description": "Advertising Settings Plugin",
+    "keywords": ["plugin","advertising-settings"],
+    "require": {
+    "php": ">=8.0",
+        "composer/installers": "~1.0|~2.0"
+    }
 }
